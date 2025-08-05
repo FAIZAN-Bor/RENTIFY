@@ -1,0 +1,137 @@
+{
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "homepage": {
+    "heading": "Find Your Perfect Rental Car",
+    "subheading": "Compare prices from multiple providers and book the best car rental deals worldwide. Your journey starts here.",
+    "explore": "Explore Cars",
+    "learn_more": "Learn More",
+    "stats": {
+      "cars": "Cars Available",
+      "locations": "Locations",
+      "customers": "Happy Customers"
+    },
+    "top_rated": {
+      "heading": "Top Rated Cars",
+      "desc": "Discover our most popular and highly-rated vehicles chosen by thousands of satisfied customers.",
+      "no_cars": "No cars available",
+      "check_back": "Check back later for our latest vehicles.",
+      "view_all": "View All Cars"
+    },
+    "how_it_works": {
+      "heading": "How It Works",
+      "desc": "Renting a car with Rentify is simple and hassle-free. Just follow these easy steps to get started:",
+      "steps": [
+        { "title": "Search & Compare", "desc": "Enter your pickup location and dates to instantly compare cars from top rental providers in your area." },
+        { "title": "Choose Your Car", "desc": "Browse a wide range of vehicles, from economy to luxury, and select the one that fits your needs and budget." },
+        { "title": "Book Instantly", "desc": "Reserve your car in just a few clicks with our secure and seamless booking process. No hidden fees." },
+        { "title": "Pick Up & Drive", "desc": "Head to your selected location, pick up your car, and enjoy your journey with confidence and support from Rentify." }
+      ]
+    },
+    "why": {
+      "heading": "Why Choose Rentify?",
+      "desc": "Experience the best in car rental with Rentify. Here’s why thousands trust us:",
+      "features": [
+        { "title": "Best Price Guarantee", "desc": "We compare prices across multiple providers to ensure you always get the lowest rates available." },
+        { "title": "Instant Booking", "desc": "Book your car in real time and receive instant confirmation—no waiting, no uncertainty." },
+        { "title": "Secure & Safe", "desc": "Your personal information and payments are protected with industry-leading security standards." },
+        { "title": "Top Quality Service", "desc": "Our dedicated support team and comprehensive service make your rental experience smooth and reliable." }
+      ]
+    }
+  },
+  "about": {
+    "heading": "About Rentify",
+    "desc": "We're revolutionizing the car rental industry by connecting travelers with the best rental deals from trusted providers worldwide. Our mission is to make car rental simple, transparent, and accessible to everyone.",
+    "mission_heading": "Our Mission",
+    "mission_1": "To democratize car rental by providing a single platform where travelers can compare, choose, and book from the world's leading rental providers. We believe everyone deserves access to reliable, affordable transportation, no matter where their journey takes them.",
+    "mission_2": "Founded in 2020, Rentify has grown from a simple idea to a comprehensive platform serving millions of travelers worldwide. We're proud to have facilitated over 2 million successful car rentals and counting.",
+    "values_heading": "Our Values",
+    "values_desc": "These core values guide everything we do and shape how we serve our customers and partners.",
+    "values": [
+      { "title": "Customer First", "desc": "We prioritize our customers' needs and strive to exceed their expectations in every interaction." },
+      { "title": "Global Reach", "desc": "We connect travelers with rental options worldwide, making mobility accessible everywhere." },
+      { "title": "Quality Assurance", "desc": "We maintain high standards by partnering only with trusted, verified rental providers." },
+      { "title": "Innovation", "desc": "We continuously innovate to simplify the car rental process and enhance user experience." }
+    ],
+    "team_heading": "Meet Our Team",
+    "team_desc": "Our passionate team of experts is dedicated to transforming the car rental experience.",
+    "team": [
+      { "name": "Sarah Johnson", "role": "CEO & Founder", "bio": "Former automotive industry executive with 15+ years of experience in car rental and mobility solutions." },
+      { "name": "Michael Chen", "role": "CTO", "bio": "Tech entrepreneur and software architect specializing in travel and transportation platforms." },
+      { "name": "Emily Rodriguez", "role": "Head of Operations", "bio": "Operations expert with extensive background in logistics and customer service optimization." },
+      { "name": "David Kim", "role": "Head of Partnerships", "bio": "Business development leader with strong relationships across the global car rental industry." }
+    ],
+    "stats": {
+      "rentals": "Successful Rentals",
+      "providers": "Partner Providers",
+      "countries": "Countries Served",
+      "customers": "Happy Customers"
+    }
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "desc": "Have questions or need assistance? We're here to help! Reach out to our friendly support team.",
+    "get_in_touch": "Get in Touch",
+    "get_in_touch_desc": "Whether you have questions about our service, need help with a booking, or want to partner with us, we'd love to hear from you.",
+    "email_us": "Email Us",
+    "email_us_desc": "Send us an email and we'll respond within 24 hours.",
+    "call_us": "Call Us",
+    "call_us_desc": "Speak directly with our support team.",
+    "visit_us": "Visit Us",
+    "visit_us_desc": "Come visit our headquarters.",
+    "address": "123 Rental Street\nSan Francisco, CA 94105\nUnited States",
+    "business_hours": "Business Hours",
+    "business_hours_desc": [
+      "Monday - Friday: 8:00 AM - 8:00 PM PST",
+      "Saturday: 9:00 AM - 6:00 PM PST",
+      "Sunday: 10:00 AM - 4:00 PM PST"
+    ],
+    "send_message": "Send us a Message",
+    "faq_heading": "Frequently Asked Questions",
+    "faq_desc": "Quick answers to common questions about Rentify.",
+    "faq": [
+      { "q": "How does Rentify work?", "a": "Rentify is a car rental aggregator that compares prices and options from multiple rental providers. Simply search for your desired location and dates, compare available cars, and book directly with your chosen provider." },
+      { "q": "Is it free to use Rentify?", "a": "Yes! Rentify is completely free for customers. We earn a small commission from our partner rental providers when you complete a booking, but this doesn't affect the price you pay." },
+      { "q": "Can I cancel or modify my booking?", "a": "Cancellation and modification policies vary by rental provider. You can find specific terms and conditions for your booking in your confirmation email or by contacting the rental provider directly." },
+      { "q": "What if I have issues with my rental?", "a": "While you book through Rentify, your rental agreement is with the provider. For immediate assistance during your rental, contact the provider directly. For other concerns, our support team is here to help mediate and resolve issues." }
+    ],
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "success": "Thank you for your message! We'll get back to you soon.",
+    "select_subject": "Select a subject",
+    "subjects": {
+      "general": "General Inquiry",
+      "booking": "Booking Support",
+      "technical": "Technical Issue",
+      "partnership": "Partnership Opportunity",
+      "feedback": "Feedback",
+      "other": "Other"
+    }
+  },
+  "footer": {
+    "desc": "Your trusted car rental aggregator, helping you find the best deals from multiple providers worldwide.",
+    "quick_links": "Quick Links",
+    "home": "Home",
+    "explore": "Explore Cars",
+    "about": "About Us",
+    "contact": "Contact",
+    "support": "Support",
+    "help_center": "Help Center",
+    "terms_of_service": "Terms of Service",
+    "privacy_policy": "Privacy Policy",
+    "faq": "FAQ",
+    "contact_info": "Contact Info",
+    "address": "123 Rental St, City, State 12345",
+    "copyright": "All rights reserved.",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "cookies": "Cookies"
+  }
+} 

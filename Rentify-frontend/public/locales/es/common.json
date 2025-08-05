@@ -1,0 +1,137 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "explore": "Explorar",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "homepage": {
+    "heading": "Encuentra el auto de alquiler perfecto",
+    "subheading": "Compara precios de múltiples proveedores y reserva las mejores ofertas de alquiler de autos en todo el mundo. Tu viaje comienza aquí.",
+    "explore": "Explorar autos",
+    "learn_more": "Aprende más",
+    "stats": {
+      "cars": "Autos disponibles",
+      "locations": "Ubicaciones",
+      "customers": "Clientes felices"
+    },
+    "top_rated": {
+      "heading": "Autos mejor valorados",
+      "desc": "Descubre nuestros vehículos más populares y mejor valorados elegidos por miles de clientes satisfechos.",
+      "no_cars": "No hay autos disponibles",
+      "check_back": "Vuelve más tarde para ver nuestros últimos vehículos.",
+      "view_all": "Ver todos los autos"
+    },
+    "how_it_works": {
+      "heading": "Cómo funciona",
+      "desc": "Alquilar un auto nunca ha sido tan fácil. Sigue estos sencillos pasos para ponerte en marcha.",
+      "steps": [
+        { "title": "Buscar y comparar", "desc": "Ingresa tu ubicación y fechas para encontrar autos disponibles de múltiples proveedores de alquiler." },
+        { "title": "Elige tu auto", "desc": "Explora nuestra amplia colección y selecciona el auto perfecto para tus necesidades." },
+        { "title": "Reserva al instante", "desc": "Completa tu reserva con nuestro sistema de pago seguro y obtén confirmación instantánea." },
+        { "title": "Recoge y conduce", "desc": "Recoge tu auto en la ubicación elegida y disfruta tu viaje." }
+      ]
+    },
+    "why": {
+      "heading": "¿Por qué elegir Rentify?",
+      "desc": "Estamos comprometidos a brindarte la mejor experiencia de alquiler de autos posible.",
+      "features": [
+        { "title": "Mejor precio garantizado", "desc": "Comparamos precios de múltiples proveedores para asegurarte la mejor oferta." },
+        { "title": "Reserva instantánea", "desc": "Reserva tu auto al instante con nuestro proceso de reserva simplificado." },
+        { "title": "Seguro y protegido", "desc": "Tus datos y pagos están protegidos con seguridad de nivel empresarial." },
+        { "title": "Servicio mejor valorado", "desc": "Únete a miles de clientes satisfechos que confían en Rentify para sus alquileres de autos." }
+      ]
+    }
+  },
+  "about": {
+    "heading": "Acerca de Rentify",
+    "desc": "Estamos revolucionando la industria del alquiler de autos conectando viajeros con las mejores ofertas de proveedores confiables en todo el mundo. Nuestra misión es hacer que el alquiler de autos sea simple, transparente y accesible para todos.",
+    "mission_heading": "Nuestra misión",
+    "mission_1": "Democratizar el alquiler de autos proporcionando una plataforma única donde los viajeros puedan comparar, elegir y reservar entre los principales proveedores del mundo. Creemos que todos merecen acceso a transporte confiable y asequible, sin importar a dónde los lleve su viaje.",
+    "mission_2": "Fundada en 2020, Rentify ha pasado de ser una simple idea a una plataforma integral que atiende a millones de viajeros en todo el mundo. Nos enorgullece haber facilitado más de 2 millones de alquileres exitosos y seguimos creciendo.",
+    "values_heading": "Nuestros valores",
+    "values_desc": "Estos valores fundamentales guían todo lo que hacemos y moldean cómo servimos a nuestros clientes y socios.",
+    "values": [
+      { "title": "El cliente primero", "desc": "Priorizamos las necesidades de nuestros clientes y nos esforzamos por superar sus expectativas en cada interacción." },
+      { "title": "Alcance global", "desc": "Conectamos viajeros con opciones de alquiler en todo el mundo, haciendo que la movilidad sea accesible en todas partes." },
+      { "title": "Garantía de calidad", "desc": "Mantenemos altos estándares asociándonos solo con proveedores de alquiler confiables y verificados." },
+      { "title": "Innovación", "desc": "Innovamos continuamente para simplificar el proceso de alquiler de autos y mejorar la experiencia del usuario." }
+    ],
+    "team_heading": "Conoce a nuestro equipo",
+    "team_desc": "Nuestro apasionado equipo de expertos está dedicado a transformar la experiencia de alquiler de autos.",
+    "team": [
+      { "name": "Sarah Johnson", "role": "CEO y fundadora", "bio": "Ejecutiva de la industria automotriz con más de 15 años de experiencia en alquiler de autos y soluciones de movilidad." },
+      { "name": "Michael Chen", "role": "CTO", "bio": "Emprendedor tecnológico y arquitecto de software especializado en plataformas de viajes y transporte." },
+      { "name": "Emily Rodriguez", "role": "Jefa de operaciones", "bio": "Experta en operaciones con amplia experiencia en logística y optimización del servicio al cliente." },
+      { "name": "David Kim", "role": "Jefe de alianzas", "bio": "Líder en desarrollo de negocios con sólidas relaciones en la industria global de alquiler de autos." }
+    ],
+    "stats": {
+      "rentals": "Alquileres exitosos",
+      "providers": "Proveedores asociados",
+      "countries": "Países atendidos",
+      "customers": "Clientes felices"
+    }
+  },
+  "contact": {
+    "heading": "Contáctanos",
+    "desc": "¿Tienes preguntas o necesitas ayuda? ¡Estamos aquí para ayudarte! Ponte en contacto con nuestro amable equipo de soporte.",
+    "get_in_touch": "Ponte en contacto",
+    "get_in_touch_desc": "Ya sea que tengas preguntas sobre nuestro servicio, necesites ayuda con una reserva o quieras asociarte con nosotros, nos encantaría saber de ti.",
+    "email_us": "Envíanos un correo electrónico",
+    "email_us_desc": "Envíanos un correo y te responderemos en 24 horas.",
+    "call_us": "Llámanos",
+    "call_us_desc": "Habla directamente con nuestro equipo de soporte.",
+    "visit_us": "Visítanos",
+    "visit_us_desc": "Ven a visitar nuestra oficina central.",
+    "address": "123 Rental Street\nSan Francisco, CA 94105\nEstados Unidos",
+    "business_hours": "Horario de atención",
+    "business_hours_desc": [
+      "Lunes a viernes: 8:00 AM - 8:00 PM PST",
+      "Sábado: 9:00 AM - 6:00 PM PST",
+      "Domingo: 10:00 AM - 4:00 PM PST"
+    ],
+    "send_message": "Envíanos un mensaje",
+    "faq_heading": "Preguntas frecuentes",
+    "faq_desc": "Respuestas rápidas a preguntas comunes sobre Rentify.",
+    "faq": [
+      { "q": "¿Cómo funciona Rentify?", "a": "Rentify es un agregador de alquiler de autos que compara precios y opciones de múltiples proveedores. Simplemente busca tu ubicación y fechas deseadas, compara los autos disponibles y reserva directamente con el proveedor que elijas." },
+      { "q": "¿Es gratis usar Rentify?", "a": "¡Sí! Rentify es completamente gratis para los clientes. Ganamos una pequeña comisión de nuestros proveedores asociados cuando completas una reserva, pero esto no afecta el precio que pagas." },
+      { "q": "¿Puedo cancelar o modificar mi reserva?", "a": "Las políticas de cancelación y modificación varían según el proveedor. Puedes encontrar los términos y condiciones específicos de tu reserva en tu correo de confirmación o contactando directamente al proveedor." },
+      { "q": "¿Qué pasa si tengo problemas con mi alquiler?", "a": "Aunque reservas a través de Rentify, tu contrato de alquiler es con el proveedor. Para asistencia inmediata durante tu alquiler, contacta directamente al proveedor. Para otros problemas, nuestro equipo de soporte está aquí para ayudarte a mediar y resolver inconvenientes." }
+    ],
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "send": "Enviar mensaje",
+    "success": "¡Gracias por tu mensaje! Nos pondremos en contacto contigo pronto.",
+    "select_subject": "Selecciona un asunto",
+    "subjects": {
+      "general": "Consulta general",
+      "booking": "Soporte de reservas",
+      "technical": "Problema técnico",
+      "partnership": "Oportunidad de colaboración",
+      "feedback": "Comentarios",
+      "other": "Otro"
+    }
+  },
+  "footer": {
+    "desc": "Tu agregador de alquiler de autos de confianza, ayudándote a encontrar las mejores ofertas de múltiples proveedores en todo el mundo.",
+    "quick_links": "Enlaces rápidos",
+    "home": "Inicio",
+    "explore": "Explorar autos",
+    "about": "Acerca de nosotros",
+    "contact": "Contacto",
+    "support": "Soporte",
+    "help_center": "Centro de ayuda",
+    "terms_of_service": "Términos del servicio",
+    "privacy_policy": "Política de privacidad",
+    "faq": "Preguntas frecuentes",
+    "contact_info": "Información de contacto",
+    "address": "123 Rental St, Ciudad, Estado 12345",
+    "copyright": "Todos los derechos reservados.",
+    "terms": "Términos",
+    "privacy": "Privacidad",
+    "cookies": "Cookies"
+  }
+} 
