@@ -358,7 +358,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@rentify.com or join our Slack channel.
+For support, email faizanafzaal868@gmail.com.
 
 ## 🙏 Acknowledgments
 
